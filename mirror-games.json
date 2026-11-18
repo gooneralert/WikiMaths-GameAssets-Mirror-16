@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "hollow-knight",
+    "title": "Hollow Knight",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Team Cherry",
+    "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+    "tags": [
+      "Metroidvania",
+      "Action-Adventure",
+      "Atmospheric",
+      "Exploration",
+      "Combat",
+      "Hand-Drawn"
+    ],
+    "controls": [
+      {
+        "action": "Up",
+        "keys": [
+          {
+            "key": "ArrowUp",
+            "keyCode": 38
+          }
+        ]
+      },
+      {
+        "action": "Down",
+        "keys": [
+          {
+            "key": "ArrowDown",
+            "keyCode": 40
+          }
+        ]
+      },
+      {
+        "action": "Left",
+        "keys": [
+          {
+            "key": "ArrowLeft",
+            "keyCode": 37
+          }
+        ]
+      },
+      {
+        "action": "Right",
+        "keys": [
+          {
+            "key": "ArrowRight",
+            "keyCode": 39
+          }
+        ]
+      },
+      {
+        "action": "Jump",
+        "keys": [
+          {
+            "key": "KeyZ",
+            "keyCode": 90
+          }
+        ]
+      },
+      {
+        "action": "Attack",
+        "keys": [
+          {
+            "key": "KeyX",
+            "keyCode": 88
+          }
+        ]
+      },
+      {
+        "action": "Dash",
+        "keys": [
+          {
+            "key": "KeyC",
+            "keyCode": 67
+          }
+        ]
+      },
+      {
+        "action": "Focus/Cast",
+        "keys": [
+          {
+            "key": "KeyA",
+            "keyCode": 65
+          }
+        ]
+      },
+      {
+        "action": "Quick Map",
+        "keys": [
+          {
+            "key": "Tab",
+            "keyCode": 9
+          }
+        ]
+      },
+      {
+        "action": "Super Dash",
+        "keys": [
+          {
+            "key": "KeyS",
+            "keyCode": 83
+          }
+        ]
+      },
+      {
+        "action": "Dream Nail",
+        "keys": [
+          {
+            "key": "KeyD",
+            "keyCode": 68
+          }
+        ]
+      },
+      {
+        "action": "Quick Cast",
+        "keys": [
+          {
+            "key": "KeyF",
+            "keyCode": 70
+          }
+        ]
+      },
+      {
+        "action": "Inventory",
+        "keys": [
+          {
+            "key": "KeyI",
+            "keyCode": 73
+          }
+        ]
+      }
+    ],
+    "gamepadControls": [
+      {
+        "action": "Up",
+        "axes": [
+          {
+            "index": 1,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Down",
+        "axes": [
+          {
+            "index": 1,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Right",
+        "axes": [
+          {
+            "index": 0,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Left",
+        "axes": [
+          {
+            "index": 0,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Jump",
+        "buttons": [
+          0
+        ]
+      },
+      {
+        "action": "Attack",
+        "buttons": [
+          2
+        ]
+      },
+      {
+        "action": "Dash",
+        "buttons": [
+          7
+        ]
+      },
+      {
+        "action": "Focus/Cast",
+        "buttons": [
+          1
+        ]
+      },
+      {
+        "action": "Quick Map",
+        "buttons": [
+          4
+        ]
+      },
+      {
+        "action": "Super Dash",
+        "buttons": [
+          6
+        ]
+      },
+      {
+        "action": "Dream Nail",
+        "buttons": [
+          3
+        ]
+      },
+      {
+        "action": "Quick Cast",
+        "buttons": [
+          5
+        ]
+      },
+      {
+        "action": "Inventory",
+        "buttons": [
+          8
+        ]
+      }
+    ],
+    "controllerSupport": true,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 973144517,
+    "thumbnail": "/thumbs/obsidian/hollow-knight.webp"
+  },
+  {
+    "slug": "starbound",
+    "title": "Starbound",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 346472233,
+    "thumbnail": ""
+  },
+  {
+    "slug": "peggle-deluxe",
+    "title": "Peggle Deluxe",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 120576640,
+    "thumbnail": "/thumbs/truffled/peggle-deluxe.webp"
+  },
+  {
+    "slug": "pego-prototype",
+    "title": "Pego (Prototype)",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 44489341,
+    "thumbnail": "/thumbs/truffled/pego-prototype.webp"
+  }
+]

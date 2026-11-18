@@ -1,0 +1,179 @@
+{
+  "mirror/starbound/packed.pak": {
+    "size": 902276966,
+    "parts": [
+      {
+        "path": "mirror/starbound/packed.pak.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part008",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part009",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part010",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/starbound/packed.pak.part011",
+        "size": 2276966
+      }
+    ]
+  },
+  "mirror/peggle-deluxe/core/reactos.img": {
+    "size": 734003200,
+    "parts": [
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part008",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/core/reactos.img.part009",
+        "size": 14003200
+      }
+    ]
+  },
+  "mirror/peggle-deluxe/state.bin": {
+    "size": 318096748,
+    "parts": [
+      {
+        "path": "mirror/peggle-deluxe/state.bin.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/state.bin.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/state.bin.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-deluxe/state.bin.part004",
+        "size": 48096748
+      }
+    ]
+  },
+  "mirror/pego-prototype/core/reactos.img": {
+    "size": 734003200,
+    "parts": [
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part008",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/core/reactos.img.part009",
+        "size": 14003200
+      }
+    ]
+  },
+  "mirror/pego-prototype/state.bin": {
+    "size": 376937804,
+    "parts": [
+      {
+        "path": "mirror/pego-prototype/state.bin.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/state.bin.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/state.bin.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/state.bin.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pego-prototype/state.bin.part005",
+        "size": 16937804
+      }
+    ]
+  }
+}
