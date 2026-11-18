@@ -1,0 +1,999 @@
+{
+  "slug": "starbound",
+  "title": "Starbound",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/Starbound/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/Starbound/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/starbound.webp",
+  "baseUrl": "https://truffled.lol/games/Starbound/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/Starbound/index.html",
+  "status": "done",
+  "sizeBytes": 346472233,
+  "assetCount": 31,
+  "known404": [
+    "https://truffled.lol/games/Starbound/cors.js",
+    "https://truffled.lol/games/Starbound/datafile_starbound.data",
+    "https://truffled.lol/overrides/cursors/cursors.png",
+    "https://truffled.lol/overrides/font/barcode/barcode.ttf",
+    "https://truffled.lol/overrides/font/barcode/barcode.woff2",
+    "https://truffled.lol/overrides/font/barcode/barcodetext.ttf",
+    "https://truffled.lol/overrides/font/beech.woff2",
+    "https://truffled.lol/overrides/font/beech.ttf",
+    "https://truffled.lol/overrides/font/craft/craft-b.ttf",
+    "https://truffled.lol/overrides/font/barcode/barcodetext.woff2",
+    "https://truffled.lol/overrides/font/craft/craft-b.woff2",
+    "https://truffled.lol/overrides/font/craft/craft-bi.woff2",
+    "https://truffled.lol/overrides/font/craft/craft-i.ttf",
+    "https://truffled.lol/overrides/font/craft/craft-bi.ttf",
+    "https://truffled.lol/overrides/font/craft/craft-i.woff2",
+    "https://truffled.lol/overrides/font/craft/craft.ttf",
+    "https://truffled.lol/overrides/font/dotsies.ttf",
+    "https://truffled.lol/overrides/font/craft/craft.woff2",
+    "https://truffled.lol/overrides/font/dotsies.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extended.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extended.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextrabold.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextrabold.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextraboldoblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralight.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextraboldoblique.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralight.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralightoblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedoblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralightoblique.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedoblique.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemibold.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemibold.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemiboldoblique.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemiboldoblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extrabold.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extraboldoblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extrabold.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extraboldoblique.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extralight.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extralight.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extralightoblique.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-extralightoblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-oblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-semibold.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-oblique.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-semiboldoblique.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-semibold.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka.woff2",
+    "https://truffled.lol/overrides/font/iosevka/iosevka.ttf",
+    "https://truffled.lol/overrides/font/iosevka/iosevka-semiboldoblique.woff2",
+    "https://truffled.lol/overrides/font/pixelhobo.woff2",
+    "https://truffled.lol/overrides/font/pixelhobo.ttf",
+    "https://truffled.lol/overrides/font/newspaper.woff2",
+    "https://truffled.lol/overrides/font/newspaper.ttf",
+    "https://truffled.lol/overrides/font/sources.txt",
+    "https://truffled.lol/overrides/font/spacemono/spacemono-bolditalic.ttf",
+    "https://truffled.lol/overrides/font/spacemono/spacemono-bold.woff2",
+    "https://truffled.lol/overrides/font/spacemono/spacemono-bold.ttf",
+    "https://truffled.lol/overrides/font/spacemono/spacemono-bolditalic.woff2",
+    "https://truffled.lol/overrides/font/spacemono/spacemono-italic.ttf",
+    "https://truffled.lol/overrides/font/spacemono/spacemono.ttf",
+    "https://truffled.lol/overrides/font/spacemono/spacemono-italic.woff2",
+    "https://truffled.lol/overrides/font/spacemono/spacemono.woff2",
+    "https://truffled.lol/overrides/font/twemoji.woff2",
+    "https://truffled.lol/overrides/font/twemoji.ttf",
+    "https://truffled.lol/overrides/font/unifont.woff2",
+    "https://truffled.lol/overrides/font/unifont.ttf",
+    "https://truffled.lol/overrides/hobo.ttf",
+    "https://truffled.lol/overrides/humanoid/human/femalebody.png",
+    "https://truffled.lol/overrides/humanoid/human/malebody.png",
+    "https://truffled.lol/overrides/interface/building/blockswap.png",
+    "https://truffled.lol/overrides/interface/building/collisionblock.png",
+    "https://truffled.lol/overrides/interface/building/collisionempty.png",
+    "https://truffled.lol/overrides/interface/building/collisionplatform.png",
+    "https://truffled.lol/overrides/interface/actionbar/actionbarbottombg.png",
+    "https://truffled.lol/overrides/interface/httpwarning/www.png",
+    "https://truffled.lol/overrides/interface/inventory/cosmeticback.png",
+    "https://truffled.lol/overrides/interface/graphicsmenu/shine.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/bind.png",
+    "https://truffled.lol/overrides/interface/inventory/cosmetichidden.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/bindname.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/category.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/body.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/categoryback.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/footer.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/header.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/groupname.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/garbage.png",
+    "https://truffled.lol/overrides/interface/opensb/bindings/reset.png",
+    "https://truffled.lol/overrides/interface/opensb/charselectioncreatebutton.png",
+    "https://truffled.lol/overrides/interface/opensb/charselectioncreatebuttonhover.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/body.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/categoryname.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/footer.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/group.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/header.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/groupback.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/optionname.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/select.png",
+    "https://truffled.lol/overrides/interface/opensb/shaders/selectend.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/activityback.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/activity.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/bigbutton.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/body.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/bigbuttonback.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/deviceback.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/header.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/device.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/footer.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/indicator/back.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/indicator/front.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/pushtotalk.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/indicator/front_muted.png",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/locale.json",
+    "https://truffled.lol/overrides/interface/opensb/voicechat/pushtotalkback.png",
+    "https://truffled.lol/overrides/interface/optionsmenu/duocontrolsbutton.png",
+    "https://truffled.lol/overrides/interface/optionsmenu/body_blank.png",
+    "https://truffled.lol/overrides/interface/optionsmenu/duocontrolsbuttonhover.png",
+    "https://truffled.lol/overrides/interface/optionsmenu/shine.png",
+    "https://truffled.lol/overrides/interface/optionsmenu/tricontrolsbutton.png",
+    "https://truffled.lol/overrides/interface/optionsmenu/tricontrolsbuttonhover.png",
+    "https://truffled.lol/overrides/interface/title/barstound.png",
+    "https://truffled.lol/overrides/interface/title/serverentry.png",
+    "https://truffled.lol/overrides/interface/title/credit.txt",
+    "https://truffled.lol/overrides/interface/title/serverselect.png",
+    "https://truffled.lol/overrides/interface/title/starbound.png",
+    "https://truffled.lol/overrides/interface/title/starraria.png",
+    "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/chestf.png",
+    "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/chestm.png",
+    "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/bsleeve.png",
+    "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/fsleeve.png",
+    "https://truffled.lol/overrides/items/tools/inspectiontool/inspectionmodeicon.png",
+    "https://truffled.lol/overrides/opensb/coconut.png",
+    "https://truffled.lol/overrides/opensb/modicon.png",
+    "https://truffled.lol/overrides/rendering/sprites/error.png",
+    "https://truffled.lol/overrides/rendering/sprites/error_right.png",
+    "https://truffled.lol/overrides/rendering/sprites/error_left.png",
+    "https://truffled.lol/overrides/sfx/interface/button/hover.wav",
+    "https://truffled.lol/overrides/sfx/interface/button/click.wav",
+    "https://truffled.lol/overrides/sfx/interface/button/hover_off.wav",
+    "https://truffled.lol/overrides/sfx/interface/inventory_somedown.ogg",
+    "https://truffled.lol/overrides/sfx/interface/inventory_someup.ogg",
+    "https://truffled.lol/overrides/sfx/interface/button/release.wav",
+    "https://truffled.lol/overrides/sfx/interface/item_pickup.ogg",
+    "https://truffled.lol/overrides/sfx/interface/voice_off.ogg",
+    "https://truffled.lol/overrides/sfx/interface/voice_switch.ogg",
+    "https://truffled.lol/overrides/sfx/interface/voice_on.ogg",
+    "https://truffled.lol/overrides/sfx/interface/voice_switch_off.ogg",
+    "https://truffled.lol/overrides/sfx/tools/buildradiusshrink.wav",
+    "https://truffled.lol/overrides/sfx/tools/buildradiusgrow.wav",
+    "https://truffled.lol/overrides/sky/orbitals/bluestar.png",
+    "https://truffled.lol/overrides/sfx/tools/cyclematcollision.ogg",
+    "https://truffled.lol/overrides/sky/orbitals/redstar.png",
+    "https://truffled.lol/overrides/sky/orbitals/orangestar.png",
+    "https://truffled.lol/overrides/sky/orbitals/whitestar.png",
+    "https://truffled.lol/overrides/tiles/shadows.png",
+    "https://truffled.lol/overrides/sky/orbitals/yellowstar.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/Starbound/cors.js",
+      "error": "HTTP 404 for https://truffled.lol/games/Starbound/cors.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/Starbound/datafile_starbound.data",
+      "error": "HTTP 404 for https://truffled.lol/games/Starbound/datafile_starbound.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/cursors/cursors.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/cursors/cursors.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/barcode/barcode.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/barcode/barcode.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/barcode/barcode.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/barcode/barcode.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/barcode/barcodetext.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/barcode/barcodetext.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/beech.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/beech.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/beech.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/beech.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft-b.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft-b.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/barcode/barcodetext.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/barcode/barcodetext.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft-b.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft-b.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft-bi.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft-bi.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft-i.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft-i.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft-bi.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft-bi.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft-i.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft-i.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/dotsies.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/dotsies.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/craft/craft.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/craft/craft.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/dotsies.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/dotsies.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extended.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extended.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extended.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extended.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextrabold.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextrabold.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextrabold.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextrabold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextraboldoblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextraboldoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralight.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralight.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextraboldoblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextraboldoblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralight.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralight.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralightoblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralightoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedoblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralightoblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedextralightoblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedoblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedoblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemibold.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemibold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemibold.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemibold.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemiboldoblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemiboldoblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemiboldoblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extendedsemiboldoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extrabold.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extrabold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extraboldoblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extraboldoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extrabold.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extrabold.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extraboldoblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extraboldoblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extralight.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extralight.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extralight.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extralight.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extralightoblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extralightoblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-extralightoblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-extralightoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-oblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-oblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-semibold.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-semibold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-oblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-oblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-semiboldoblique.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-semiboldoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-semibold.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-semibold.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/iosevka/iosevka-semiboldoblique.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/iosevka/iosevka-semiboldoblique.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/pixelhobo.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/pixelhobo.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/pixelhobo.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/pixelhobo.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/newspaper.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/newspaper.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/newspaper.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/newspaper.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/sources.txt",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/sources.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono-bolditalic.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono-bolditalic.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono-bold.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono-bold.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono-bold.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono-bold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono-bolditalic.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono-bolditalic.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono-italic.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono-italic.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono-italic.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono-italic.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/spacemono/spacemono.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/spacemono/spacemono.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/twemoji.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/twemoji.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/twemoji.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/twemoji.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/unifont.woff2",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/unifont.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/font/unifont.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/font/unifont.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/hobo.ttf",
+      "error": "HTTP 404 for https://truffled.lol/overrides/hobo.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/humanoid/human/femalebody.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/humanoid/human/femalebody.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/humanoid/human/malebody.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/humanoid/human/malebody.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/building/blockswap.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/building/blockswap.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/building/collisionblock.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/building/collisionblock.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/building/collisionempty.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/building/collisionempty.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/building/collisionplatform.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/building/collisionplatform.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/actionbar/actionbarbottombg.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/actionbar/actionbarbottombg.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/httpwarning/www.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/httpwarning/www.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/inventory/cosmeticback.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/inventory/cosmeticback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/graphicsmenu/shine.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/graphicsmenu/shine.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/bind.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/bind.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/inventory/cosmetichidden.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/inventory/cosmetichidden.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/bindname.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/bindname.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/category.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/category.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/body.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/body.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/categoryback.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/categoryback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/footer.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/footer.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/header.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/header.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/groupname.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/groupname.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/garbage.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/garbage.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/bindings/reset.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/bindings/reset.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/charselectioncreatebutton.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/charselectioncreatebutton.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/charselectioncreatebuttonhover.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/charselectioncreatebuttonhover.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/body.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/body.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/categoryname.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/categoryname.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/footer.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/footer.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/group.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/group.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/header.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/header.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/groupback.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/groupback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/optionname.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/optionname.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/select.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/select.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/shaders/selectend.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/shaders/selectend.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/activityback.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/activityback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/activity.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/activity.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/bigbutton.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/bigbutton.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/body.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/body.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/bigbuttonback.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/bigbuttonback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/deviceback.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/deviceback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/header.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/header.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/device.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/device.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/footer.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/footer.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/indicator/back.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/indicator/back.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/indicator/front.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/indicator/front.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/pushtotalk.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/pushtotalk.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/indicator/front_muted.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/indicator/front_muted.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/locale.json",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/locale.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/opensb/voicechat/pushtotalkback.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/opensb/voicechat/pushtotalkback.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/optionsmenu/duocontrolsbutton.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/optionsmenu/duocontrolsbutton.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/optionsmenu/body_blank.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/optionsmenu/body_blank.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/optionsmenu/duocontrolsbuttonhover.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/optionsmenu/duocontrolsbuttonhover.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/optionsmenu/shine.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/optionsmenu/shine.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/optionsmenu/tricontrolsbutton.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/optionsmenu/tricontrolsbutton.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/optionsmenu/tricontrolsbuttonhover.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/optionsmenu/tricontrolsbuttonhover.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/title/barstound.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/title/barstound.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/title/serverentry.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/title/serverentry.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/title/credit.txt",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/title/credit.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/title/serverselect.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/title/serverselect.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/title/starbound.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/title/starbound.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/interface/title/starraria.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/interface/title/starraria.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/chestf.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/chestf.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/chestm.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/chestm.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/bsleeve.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/bsleeve.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/fsleeve.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/items/armors/avian/avian-tier6separator/old/fsleeve.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/items/tools/inspectiontool/inspectionmodeicon.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/items/tools/inspectiontool/inspectionmodeicon.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/opensb/coconut.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/opensb/coconut.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/opensb/modicon.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/opensb/modicon.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/rendering/sprites/error.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/rendering/sprites/error.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/rendering/sprites/error_right.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/rendering/sprites/error_right.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/rendering/sprites/error_left.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/rendering/sprites/error_left.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/button/hover.wav",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/button/hover.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/button/click.wav",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/button/click.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/button/hover_off.wav",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/button/hover_off.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/inventory_somedown.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/inventory_somedown.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/inventory_someup.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/inventory_someup.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/button/release.wav",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/button/release.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/item_pickup.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/item_pickup.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/voice_off.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/voice_off.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/voice_switch.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/voice_switch.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/voice_on.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/voice_on.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/interface/voice_switch_off.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/interface/voice_switch_off.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/tools/buildradiusshrink.wav",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/tools/buildradiusshrink.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/tools/buildradiusgrow.wav",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/tools/buildradiusgrow.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sky/orbitals/bluestar.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sky/orbitals/bluestar.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sfx/tools/cyclematcollision.ogg",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sfx/tools/cyclematcollision.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sky/orbitals/redstar.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sky/orbitals/redstar.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sky/orbitals/orangestar.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sky/orbitals/orangestar.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sky/orbitals/whitestar.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sky/orbitals/whitestar.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/tiles/shadows.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/tiles/shadows.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/overrides/sky/orbitals/yellowstar.png",
+      "error": "HTTP 404 for https://truffled.lol/overrides/sky/orbitals/yellowstar.png",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:09:19.988Z",
+  "verifiedAt": "2026-11-18T07:14:44.916Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Starbound",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 713
+    },
+    "nonBlack": "err:Failed to execute 'getContext' on 'HTMLCanvasElement': Cannot get context from a canvas that has transferred its control to offscreen.",
+    "screenshotNonBlack": 0.9944,
+    "rendered": true
+  }
+}
