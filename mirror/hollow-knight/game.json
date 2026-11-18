@@ -1,0 +1,284 @@
+{
+  "slug": "hollow-knight",
+  "title": "Hollow Knight",
+  "type": "HTML",
+  "developer": "Team Cherry",
+  "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+  "tags": [
+    "Metroidvania",
+    "Action-Adventure",
+    "Atmospheric",
+    "Exploration",
+    "Combat",
+    "Hand-Drawn"
+  ],
+  "controls": [
+    {
+      "action": "Up",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "KeyZ",
+          "keyCode": 90
+        }
+      ]
+    },
+    {
+      "action": "Attack",
+      "keys": [
+        {
+          "key": "KeyX",
+          "keyCode": 88
+        }
+      ]
+    },
+    {
+      "action": "Dash",
+      "keys": [
+        {
+          "key": "KeyC",
+          "keyCode": 67
+        }
+      ]
+    },
+    {
+      "action": "Focus/Cast",
+      "keys": [
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    },
+    {
+      "action": "Quick Map",
+      "keys": [
+        {
+          "key": "Tab",
+          "keyCode": 9
+        }
+      ]
+    },
+    {
+      "action": "Super Dash",
+      "keys": [
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Dream Nail",
+      "keys": [
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Quick Cast",
+      "keys": [
+        {
+          "key": "KeyF",
+          "keyCode": 70
+        }
+      ]
+    },
+    {
+      "action": "Inventory",
+      "keys": [
+        {
+          "key": "KeyI",
+          "keyCode": 73
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Up",
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Left",
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "Attack",
+      "buttons": [
+        2
+      ]
+    },
+    {
+      "action": "Dash",
+      "buttons": [
+        7
+      ]
+    },
+    {
+      "action": "Focus/Cast",
+      "buttons": [
+        1
+      ]
+    },
+    {
+      "action": "Quick Map",
+      "buttons": [
+        4
+      ]
+    },
+    {
+      "action": "Super Dash",
+      "buttons": [
+        6
+      ]
+    },
+    {
+      "action": "Dream Nail",
+      "buttons": [
+        3
+      ]
+    },
+    {
+      "action": "Quick Cast",
+      "buttons": [
+        5
+      ]
+    },
+    {
+      "action": "Inventory",
+      "buttons": [
+        8
+      ]
+    }
+  ],
+  "controllerSupport": true,
+  "sourceId": "4c4774e9-08f3-434d-8372-6f724c0dd903",
+  "sourceVersion": "1.5.78.11833",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/index.html",
+  "status": "done",
+  "sizeBytes": 973144517,
+  "assetCount": 110,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/hktruffled.data",
+    "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/hktruffled.wasm",
+    "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/.json",
+    "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/hktruffled.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/hktruffled.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/hktruffled.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/hktruffled.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4c4774e9-08f3-434d-8372-6f724c0dd903/1.5.78.11833/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T09:55:26.946Z",
+  "verifiedAt": "2026-11-16T15:44:36.797Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Hollow Knight",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 948,
+      "height": 469
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0246,
+    "rendered": true
+  }
+}
